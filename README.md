@@ -14,6 +14,8 @@ This Application is programmed through Python, which essentially asks a user var
 ```bash
 python habit_tracker.py
 ```
+## Copyright (c) 2026 Yaseen Dawlatzai
+All rights reserved.
 
 ## Future Improvements
 - JSON support
